@@ -1,6 +1,6 @@
-# Kuhong-V4
+# Dhamz BOT
 Hanya Bot Biasa :v
-# Kuhong-V4
+# dhamz BOT
 Recode SC : Nurutomo
 
 ### FOR TERMUX USER
