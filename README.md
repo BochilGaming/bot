@@ -10,8 +10,8 @@ Recode SC : Nurutomo
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/idhamthoriqbot/DHAMZ-V5
-> cd DHAMZ-V5
+> git clone https://github.com/idhamthoriqbot/bot
+> cd bot
 > npm install
 ```
 ###### Run
